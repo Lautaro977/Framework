@@ -6,7 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Pantalla p = new Pantalla("../utilizacion/Prueba de Framework.txt");
+		Pantalla p = new Pantalla("../utilizacion/Configuracion de Framework.txt");
 		p.menu();
 	}
 
